@@ -27,7 +27,7 @@ if(!isset($_COOKIE["username"])){
 								</a>
 								<!--end::Logo-->
 								<!--begin::Nav-->
-								<span class="d-none d-md-inline" style="color: white;margin: 0px 3vw;font-size: 1.2rem;">حسابداری کوکی </span>
+								<span class="d-none d-md-inline" style="color: white;margin: 0px 3vw;font-size: 1.2rem;"> انبار داری انباربان </span>
 								
 								<!--end::Nav-->
 							</div>
@@ -91,11 +91,7 @@ if(!isset($_COOKIE["username"])){
 										<!--begin::Menu separator-->
 										<div class="separator my-2"></div>
 										<!--end::Menu separator-->
-										<!--begin::Menu item-->
-										<div class="menu-item px-5">
-											<a href="account/overview.html" class="menu-link px-5">پروفایل من</a>
-										</div>
-										<!--end::Menu item-->
+										
 									
 										
 										<!--begin::Menu item-->

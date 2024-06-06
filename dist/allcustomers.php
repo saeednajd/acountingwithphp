@@ -174,9 +174,9 @@ if(!isset($_COOKIE["username"])){
 																</td>
 																<td class=" fw-bold">
 																<?php
-																		$customerid=$showcustomersrow["id"];
+																		$customerid=$showcustomersrow["Id"];
 																?>
-																	<a href=<?php echo "./control/deletecustomers.php?customerid=".$customerid; ?>>
+																	<a href ="<?php echo "./control/deletecustomers.php?customerid=".$customerid; ?> ">
 																		<div class="symbol symbol-50px me-2">
 																			<span class="symbol-label bg-light-success">
 																				<i class="ki-duotone ki-basket fs-2x text-danger">

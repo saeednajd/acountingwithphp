@@ -199,7 +199,7 @@ if(!isset($_COOKIE["username"])){
 												<!--end::Title-->
 												<!--begin::Actions-->
 												<div class="m-0">
-													<a href='#' class="btn btn-danger fw-semibold px-6 py-3"> اطلاعات بیشتر</a>
+													<a href='https://saeednajd.ir/' class="btn btn-danger fw-semibold px-6 py-3"> اطلاعات بیشتر</a>
 												</div>
 												<!--begin::Actions-->
 											</div>
@@ -219,7 +219,7 @@ if(!isset($_COOKIE["username"])){
 								<!--begin::Copyright-->
 								<div class="text-dark order-2 order-md-1">
 									<span class="text-muted fw-semibold me-1">2024&copy;</span>
-									<a href="#" target="_blank" class="text-gray-800 text-hover-info fs-3 ">کوکی دولوپرز </a>
+									<a href="https://saeednajd.ir/" target="_blank" class="text-gray-800 text-hover-info fs-3 ">توسعه توسط سعید نجد  </a>
 								</div>
 								<!--end::Copyright-->
 								<!--begin::Menu-->

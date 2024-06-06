@@ -83,7 +83,7 @@
 												<!--begin:Menu item-->
 												<div class="menu-item">
 													<!--begin:Menu link-->
-													<a class="menu-link" href="./factors.php">
+													<a class="menu-link" href="./CommingSoon.php">
 														<span class="menu-bullet">
 															<span class="bullet bullet-dot"></span>
 														</span>
@@ -93,7 +93,7 @@
 												</div>
 												<div class="menu-item">
 													<!--begin:Menu link-->
-													<a class="menu-link" href="dashboards/online-courses.html">
+													<a class="menu-link" href="./CommingSoon.php">
 														<span class="menu-bullet">
 															<span class="bullet bullet-dot"></span>
 														</span>
@@ -103,16 +103,7 @@
 												</div>
 												<!--end:Menu item-->
 												<!--begin:Menu item-->
-												<div class="menu-item">
-													<!--begin:Menu link-->
-													<a class="menu-link" href="dashboards/marketing.html" >
-														<span class="menu-bullet">
-															<span class="bullet bullet-dot"></span>
-														</span>
-														<span class="menu-title "style="color: blue;">تنظیمات</span>
-													</a>
-													<!--end:Menu link-->
-												</div>
+												
 												<!--end:Menu item-->
 											
 											</div>
@@ -129,8 +120,8 @@
 							<!--end::کناری menu-->
 							<!--begin::Footer-->
 							<div class="aside-footer flex-column-auto pt-5 pb-7 px-7" id="kt_aside_footer">
-								<a href="#" class="btn btn-bg-light btn-color-gray-500 btn-active-color-gray-900 text-nowrap w-100" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-dismiss-="click" title="">
-									<span class="btn-label"> تیم کوکی دولوپرز</span>
+								<a href="https://saeednajd.ir/" class="btn btn-bg-light btn-color-gray-500 btn-active-color-gray-900 text-nowrap w-100" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-dismiss-="click" title="">
+									<span class="btn-label">  انباربان </span>
 									<i class="ki-duotone ki-document btn-icon fs-2">
 										<span class="path1"></span>
 										<span class="path2"></span>

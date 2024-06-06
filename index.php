@@ -1,5 +1,5 @@
 <!DOCTYPE html><html lang="fa"><head>
-    <title> ورود نرم افزار حسابداری  لادانا</title>
+    <title> ورود نرم افزار انبار داری  انباربان</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
     <!-- External CSS libraries -->
@@ -8,12 +8,13 @@
     <link type="text/css" rel="stylesheet" href="css/flaticon.css">
 
     <!-- Favicon icon -->
-    <link rel="shortcut icon" href="icon.png" type="image/x-icon">
+    <link rel="shortcut icon" href="images/anbarban-logo.jpg" type="image/x-icon">
 
     <!-- Custom Stylesheet -->
     <link type="text/css" rel="stylesheet" href="css/style.css">
 
 </head>
+
 <body id="top" dir="rtl">
 <div class="page_loader"></div>
 
@@ -25,7 +26,7 @@
                 <div class="form-section align-self-center">
                     <div class="logo">
                         <a href="login-15.html">
-                            <img src="images/logo-2.png" alt="logo">
+                            <img src="images/anbarban-logo.jpg" alt="logo">
                         </a>
                     </div>
                     <h3>ورود به حساب کاربری</h3>
@@ -66,10 +67,10 @@
                 <div class="info clearfix">
                     <div class="logo-2">
                         <a href="#">
-                            <img src="icon.png" alt="logo">
+                            <img src="images/anbarban-logo.jpg" alt="logo">
                         </a>
                     </div>
-                    <h3>لادانا بیوتی </h3>
+                    <h3>انباربان</h3>
                   
                 </div>
             </div>
